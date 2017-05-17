@@ -5,9 +5,9 @@ PyData Berlin 2016 Materials
 Keynotes
 --------
 
-Olivier Grisel, Evolution of the pydata ecosystem
+Olivier Grisel, Predictive Modelling with Python
 
-- http://ogrisel.github.io/decks/2016_pydata_berlin/ 
+- http://ogrisel.github.io/decks/2016_pydata_berlin/
 - https://github.com/ogrisel/docker-distributed
 
 
@@ -111,57 +111,116 @@ Edouard Fouché, Accelerating Python Analytics by In-Database Processing
 - https://ibmdbanalytics.github.io/pydata-berlin-2016-ibmdbpy.slides.html
 
 
-Anton Dubrau, Using small data in the client instead of big data in the cloud
+Delia Rusu, Estimating stock price correlations using Wikipedia
 
-Nils Magnus, Dealing with TBytes of Data in Realtime
+- https://speakerdeck.com/deliarusu/estimating-stock-price-correlations-using-wikipedia
+- https://github.com/deliarusu/wikipedia-correlation
 
-Abhishek Thakur, Classifying Search Queries without User Click Data
-
-Nathan Epstein, Machine Learning at Scale
-
-Angelos Kapsimanis, The Simple Leads To The Spectacular
-
-Jessica Palmer, Python and TouchDesigner for Interactive Experiments
-
-Maciej Gryka, Removing Soft Shadows with Hard Data
-
-Andreas Lattner, Setting up predictive analytics services with Palladium
-
-Martina Pugliese, Spotting trends and tailoring recommendations: PySpark on Big Data in fashion
-
-Andrej Warkentin, Visualizing FragDenStaat.de
-
-James Powell, The kwarg problem
-
-Moritz Neeb, Bayesian Optimization and it's application to Neural Networks"
-
-Kashif Rasul, What's new in Deep Learning?
 
 Jakob van Santen, The IceCube data pipeline from the South Pole to publication
 
-Matthew Honnibal, Designing spaCy: A high-performance natural language processing (NLP) library written in Cython
+- http://icecube.wisc.edu/~jvansanten/pasties/slides/2016-05-21%20PyData.pdf
 
-Valentine Gogichashvili, Data Integration in the World of Microservices
 
-Michelle Tran Chain, Loop & Group: How Celery Empowered our Data Scientists to Take Control of our Data Pipeline
+Moritz Neeb, Bayesian Optimization and it's application to Neural Networks"
 
-Guertel Idai, Artificial Body Representation in Robots, Expectation and Surprise
+- https://slack-files.com/T18U1ASNQ-F1AHX36HG-22a535f1a2
 
-Robert Meyer, pypet: A Python Toolkit for Simulations and Numerical Experiments
+
+Kashif Rasul, What's new in Deep Learning?
+
+- https://bitly.com/new-deep-learning
+- https://bitly.com/cifar10-resnet
+
+
+Nathan Epstein, Machine Learning at Scale
+
+- https://github.com/NathanEpstein/pydata-berlin
+
 
 Ronert Obst and Dat Tran, PySpark in Practice
 
-Juha Suomalainen, Visualizing research data: Challenges of combining different datasources
+- http://pydata2016.cfapps.io/#/
 
-Danny Bickson, Python based predictive analytics with GraphLab Create
 
 Jose Quesada, A full Machine learning pipeline in Scikit-learn vs in scala-Spark: pros and cons
 
+- https://files3.mixmaxusercontent.com/Qb5xzixaAsFjdsNbn/f/TZIGovHLNm7Is9Z5P/?messageId=lC47ZAHVG9riuwJkc&rn=Iibh1mclh2RgUnbpRkI&re=ISZk5ibpxmclJWLulmLul2dyFGZA5WYtJXZodmI
+
+
+Martina Pugliese, Spotting trends and tailoring recommendations: PySpark on Big Data in fashion
+
+- https://github.com/martinapugliese/talks_presentations/tree/master/pydata_berlin_2016
+
+Angelos Kapsimanis, The Simple Leads To The Spectacular (Cancelled)
+
+Anton Dubrau, Using small data in the client instead of big data in the cloud
+
+- did not respond, yet
+
+Nils Magnus, Dealing with TBytes of Data in Realtime
+
+- did not respond, yet
+
+Abhishek Thakur, Classifying Search Queries without User Click Data
+
+- did not respond, yet
+
+Jessica Palmer, Python and TouchDesigner for Interactive Experiments
+
+- did not respond, yet
+
+Maciej Gryka, Removing Soft Shadows with Hard Data
+
+- did not respond, yet
+
+Andreas Lattner, Setting up predictive analytics services with Palladium
+
+- did not respond, yet
+
+Andrej Warkentin, Visualizing FragDenStaat.de
+
+- did not respond, yet
+
+James Powell, The kwarg problem
+
+- did not respond, yet
+
+Matthew Honnibal, Designing spaCy: A high-performance natural language processing (NLP) library written in Cython
+
+- did not respond, yet
+
+Valentine Gogichashvili, Data Integration in the World of Microservices
+
+- did not respond, yet
+
+Michelle Tran Chain, Loop & Group: How Celery Empowered our Data Scientists to Take Control of our Data Pipeline
+
+- did not respond, yet
+
+Guertel Idai, Artificial Body Representation in Robots, Expectation and Surprise
+
+- did not respond, yet
+
+Robert Meyer, pypet: A Python Toolkit for Simulations and Numerical Experiments
+
+- did not respond, yet
+
+Juha Suomalainen, Visualizing research data: Challenges of combining different datasources
+
+- did not respond, yet
+
+Danny Bickson, Python based predictive analytics with GraphLab Create
+
+- did not respond, yet
+
 Fang Xu, Connecting Keywords to Knowledge Base Using Search Keywords and Wikidata
 
-Delia Rusu, Estimating stock price correlations using Wikipedia
+- did not respond, yet
 
 Dr. Markus Abel, Python Learns to Control Complex Systems
+
+- did not respond, yet
 
 
 Tutorials
@@ -171,11 +230,17 @@ Frank Gerhardt, Using Spark - with PySpark
 
 - https://gitlab.com/gerhardt.io/pyspark-workshop
 
-Katharine Jarmul, Data Wrangling with Python
-
 Mike Müller, Single-source Python 2/3
 
-Lev Konstantinovskiy, Practical Word2vec in Gensim 
+- http://www.python-academy.com/download/pydatabln2016/Single_Source_Python_2_3.pdf
+
+Katharine Jarmul, Data Wrangling with Python
+
+- https://github.com/kjam/data-wrangling-pycon
+
+Lev Konstantinovskiy, Practical Word2vec in Gensim
+
+- https://github.com/RaRe-Technologies/movie-plots-by-genre
 
 Shoaib Burq, Which city is the cultural capital of Europe? An introduction to Apache PySpark for GeoAnalytics
 
